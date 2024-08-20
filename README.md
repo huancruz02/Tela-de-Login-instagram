@@ -1,3 +1,3 @@
 # Tela-de-login-instagram
  
-Utilizando HTMl, CSS, Propriedades do Flexbox e Responsividade.
+Utilizando HTML, CSS, Propriedades do Flexbox e Responsividade.
